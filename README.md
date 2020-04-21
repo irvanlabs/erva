@@ -1,2 +1,2 @@
-# erva
-Emotional Recognition Virtual Assistant
+# Valicia
+Virtual Asisstant for spirit your day
